@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,KAAK,CAAC;EACF,OAAO,EAAE,IAAI;CAChB;;AAED,AAAA,SAAS,CAAC;EACN,WAAW,EAAE,MAAM;CACtB;;AAED,AAAA,UAAU,CAAC;EACP,eAAe,EAAE,aAAa;CACjC;;AAED,AAAA,SAAS,CAAC;EACN,cAAc,EAAE,MAAM;CACzB",
-    "sources": [
-        "flex.scss"
-    ],
-    "names": [],
-    "file": "flex.css"
-}
